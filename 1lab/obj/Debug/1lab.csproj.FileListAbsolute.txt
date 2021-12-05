@@ -1,0 +1,14 @@
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\bin\Debug\1lab.exe.config
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\bin\Debug\1lab.exe
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\bin\Debug\1lab.pdb
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\obj\Debug\1lab.csprojAssemblyReference.cache
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\obj\Debug\1lab.csproj.CoreCompileInputs.cache
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\obj\Debug\1lab.exe
+C:\Users\Sophiya\Desktop\3kurs\TPR\lab1\1lab\1lab\obj\Debug\1lab.pdb
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\bin\Debug\1lab.exe.config
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\bin\Debug\1lab.exe
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\bin\Debug\1lab.pdb
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\obj\Debug\1lab.csproj.AssemblyReference.cache
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\obj\Debug\1lab.csproj.CoreCompileInputs.cache
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\obj\Debug\1lab.exe
+F:\Політех\7 семестр\TPR\TPR\lab1\1lab\1lab\obj\Debug\1lab.pdb
